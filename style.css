@@ -1,0 +1,31 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+h1{
+    font-size:45px;
+    
+}
+span{
+    color:orchid
+
+
+}
+section{
+    display: flex;
+    padding-left:5%;
+    font-size: medium;
+     margin-right: 0ex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 87%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: violet;
+    padding: 2px;
+}
+
+
